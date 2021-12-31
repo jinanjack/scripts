@@ -1,5 +1,5 @@
 /*
-TG电报群: https://t.me/china20211029
+TG电报群: 群已私有，入群私聊机器人 @DavidLoveBot
 boxjs: https://cdn.jsdelivr.net/gh/bluesmallpig/scripts/David.boxjs.json
 */
 const $ = new Env('晶彩看点');

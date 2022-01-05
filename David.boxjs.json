@@ -732,6 +732,42 @@
                 "https://github.com/bluesmallpig/scripts/blob/main/img/fdxs.png?raw=true"
             ],
             "script":"https://github.com/"
+        },
+	{
+            "id":"qqydapp",
+            "name":"QQ阅读",
+            "keys":[
+                "qqydapp"
+            ],
+            "settings": [{
+                "id": "qqyduserck",
+                "name": "当前账号序号",
+                "val": "1",
+                "type": "number",
+                "desc": "你要抓取第几个账号，就填几。"
+            },
+	    {
+                "id": "tguserid",
+                "name": "用户编号",
+                "val": "1",
+                "type": "number",
+                "desc": "从机器人获得"
+            },
+            {
+                "id": "qqydactivecode",
+                "name": "授权码",
+                "val": "",
+                "type": "text",
+                "desc": "从机器人获得"
+            }
+            ],
+            "author":"@David",
+            "repo":"https://github.com/bluesmallpig/scripts",
+            "icons":[
+                "https://github.com/bluesmallpig/scripts/blob/main/img/qqyd-mini.png?raw=true",
+                "https://github.com/bluesmallpig/scripts/blob/main/img/qqyd.png?raw=true"
+            ],
+            "script":"https://github.com/"
         }
     ]
 }

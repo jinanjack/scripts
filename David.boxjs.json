@@ -795,6 +795,13 @@
                 "val": "",
                 "type": "text",
                 "desc": "从机器人获得"
+            },
+            {
+                "id": "awytxamount ",
+                "name": "提现金额",
+                "val": "0.5",
+                "type": "number",
+                "desc": "设置钱包达到多少金额提现"
             }
             ],
             "author":"@David",

@@ -811,6 +811,42 @@
                 "https://github.com/bluesmallpig/scripts/blob/main/img/awy.png?raw=true"
             ],
             "script":"https://github.com/"
+        },
+	{
+            "id":"slapp",
+            "name":"闪辆",
+            "keys":[
+                "slapp"
+            ],
+            "settings": [{
+                "id": "sluserck",
+                "name": "当前账号序号",
+                "val": "1",
+                "type": "number",
+                "desc": "你要抓取第几个账号，就填几。"
+            },
+	    {
+                "id": "tguserid",
+                "name": "用户编号",
+                "val": "1",
+                "type": "number",
+                "desc": "从机器人获得"
+            },
+            {
+                "id": "slactivecode",
+                "name": "授权码",
+                "val": "",
+                "type": "text",
+                "desc": "从机器人获得"
+            }
+            ],
+            "author":"@David",
+            "repo":"https://github.com/bluesmallpig/scripts",
+            "icons":[
+                "https://github.com/bluesmallpig/scripts/blob/main/img/awy-mini.png?raw=true",
+                "https://github.com/bluesmallpig/scripts/blob/main/img/awy.png?raw=true"
+            ],
+            "script":"https://github.com/"
         }
     ]
 }

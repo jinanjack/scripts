@@ -855,7 +855,7 @@
                 "zqkdapp"
             ],
             "settings": [{
-                "id": "sluserck",
+                "id": "zqkduserck",
                 "name": "当前账号序号",
                 "val": "1",
                 "type": "number",
@@ -869,7 +869,7 @@
                 "desc": "从机器人获得"
             },
             {
-                "id": "slactivecode",
+                "id": "zqkdactivecode",
                 "name": "授权码",
                 "val": "",
                 "type": "text",

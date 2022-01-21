@@ -874,6 +874,13 @@
                 "val": "",
                 "type": "text",
                 "desc": "从机器人获得"
+            },
+	    {
+                "id": "zqkdtxamount",
+                "name": "提现金额",
+                "val": "3",
+                "type": "number",
+                "desc": "0:3毛;1:1元;2:10元;3:30元"
             }
             ],
             "author":"@David",

@@ -875,6 +875,13 @@
                 "type": "text",
                 "desc": "从机器人获得"
             },
+            {
+                "id": "apiHost",
+                "name": "APIHOST",
+                "val": "",
+                "type": "text",
+                "desc": "根据提示输入"
+            },
 	    {
                 "id": "zqkdtxamount",
                 "name": "提现金额",

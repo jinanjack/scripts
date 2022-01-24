@@ -3,7 +3,7 @@
 <br/>
 2、开发不易 低调使用 且用且珍惜
 <br/>
-3、群已私有，入群私聊机器人 @DavidLoveBot
+3、群已私有，入群私聊机器人 https://t.me/DavidLoveBot
 <br/>
 4、如果觉得帮到您了，请给予打赏！
 <br/>

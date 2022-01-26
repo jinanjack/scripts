@@ -14,7 +14,7 @@
       "enable": true
     },
     {
-      "match": "",
+      "match": "NewTaskIos/getTaskList",
       "target": "https://raw.githubusercontent.com/bluesmallpig/scripts/main/zqkd.js",
       "enable": true
     }

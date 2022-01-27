@@ -306,27 +306,6 @@
             "script":"https://github.com/"
         },
 	{
-            "id":"hdapp",
-            "name":"鸿答",
-            "keys":[
-                "hdapp"	
-            ],
-            "settings": [{
-                "id": "hduserck",
-                "name": "当前账号序号",
-                "val": "1",
-                "type": "number",
-                "desc": "你要抓取第几个账号，就填几。"
-            }],
-            "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
-            "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/hd-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/hd.png?raw=true"
-            ],
-            "script":"https://github.com/"
-        },
-	{
             "id":"cydxsgame",
             "name":"成语大学士",
             "keys":[
@@ -365,63 +344,6 @@
             "icons":[
                 "https://github.com/bluesmallpig/scripts/blob/main/img/wzdt-mini.png?raw=true",
                 "https://github.com/bluesmallpig/scripts/blob/main/img/wzdt.png?raw=true"
-            ],
-            "script":"https://github.com/"
-        },
-	{
-            "id":"xbqbapp",
-            "name":"小宝骑兵",
-            "keys":[
-                "xbqbapp"	
-            ],
-            "settings": [{
-                "id": "xbqbuserck",
-                "name": "当前账号序号",
-                "val": "1",
-                "type": "number",
-                "desc": "你要抓取第几个账号，就填几。"
-            }],
-            "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
-            "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/xbqb-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/xbqb.png?raw=true"
-            ],
-            "script":"https://github.com/"
-        },
-	{
-            "id":"jjkdyapp",
-            "name":"进阶可达鸭",
-            "keys":[
-                "jjkdyapp"	
-            ],
-            "settings": [{
-                "id": "jjkdyuserck",
-                "name": "当前账号序号",
-                "val": "1",
-                "type": "number",
-                "desc": "你要抓取第几个账号，就填几。"
-            },
-	    {
-                "id": "tguserid",
-                "name": "用户编号",
-                "val": "1",
-                "type": "number",
-                "desc": "从机器人获得"
-            },
-            {
-                "id": "jjkdyactivecode",
-                "name": "授权码",
-                "val": "",
-                "type": "text",
-                "desc": "从机器人获得"
-            }
-	    ],
-            "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
-            "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/jjkdy-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/jjkdy.png?raw=true"
             ],
             "script":"https://github.com/"
         },
@@ -550,42 +472,6 @@
             "icons":[
                 "https://github.com/bluesmallpig/scripts/blob/main/img/gylm-mini.png?raw=true",
                 "https://github.com/bluesmallpig/scripts/blob/main/img/gylm.png?raw=true"
-            ],
-            "script":"https://github.com/"
-        },
-	{
-            "id":"mdmjapp",
-            "name":"美的美居",
-            "keys":[
-                "mdmjapp"
-            ],
-            "settings": [{
-                "id": "mdmjuserck",
-                "name": "当前账号序号",
-                "val": "1",
-                "type": "number",
-                "desc": "你要抓取第几个账号，就填几。"
-            },
-	    {
-                "id": "tguserid",
-                "name": "用户编号",
-                "val": "1",
-                "type": "number",
-                "desc": "从机器人获得"
-            },
-            {
-                "id": "mdmjactivecode",
-                "name": "授权码",
-                "val": "",
-                "type": "text",
-                "desc": "从机器人获得"
-            }
-            ],
-            "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
-            "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/mdmj-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/mdmj.png?raw=true"
             ],
             "script":"https://github.com/"
         },
@@ -895,6 +781,42 @@
             "icons":[
                 "https://github.com/bluesmallpig/scripts/blob/main/img/zqkd-mini.png?raw=true",
                 "https://github.com/bluesmallpig/scripts/blob/main/img/zqkd.png?raw=true"
+            ],
+            "script":"https://github.com/"
+        },
+	{
+            "id":"sjbapp",
+            "name":"睡觉宝",
+            "keys":[
+                "sjbapp"
+            ],
+            "settings": [{
+                "id": "sjbuserck",
+                "name": "当前账号序号",
+                "val": "1",
+                "type": "number",
+                "desc": "你要抓取第几个账号，就填几。"
+            },
+	    {
+                "id": "tguserid",
+                "name": "用户编号",
+                "val": "1",
+                "type": "number",
+                "desc": "从机器人获得"
+            },
+            {
+                "id": "sjbactivecode",
+                "name": "授权码",
+                "val": "",
+                "type": "text",
+                "desc": "从机器人获得"
+            }
+            ],
+            "author":"@David",
+            "repo":"https://github.com/bluesmallpig/scripts",
+            "icons":[
+                "https://github.com/bluesmallpig/scripts/blob/main/img/sjb-mini.png?raw=true",
+                "https://github.com/bluesmallpig/scripts/blob/main/img/sjb.png?raw=true"
             ],
             "script":"https://github.com/"
         }
